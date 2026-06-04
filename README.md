@@ -1,4 +1,4 @@
-## Hi there 👋 Myname is 1qLa!!!
+## Hi there 👋 My name is 1qLa!!!
 
 <!--
 **1qLa/1qLa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
