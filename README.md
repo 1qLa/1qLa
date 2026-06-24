@@ -1,4 +1,4 @@
-# Hi there, I'm 1qLa 👋
+# Hello, I'm 1qLa 
 
 I'm a student aiming to become a **Cloud Engineer / SRE**. 
 システムの裏側にある見えない仕組みを解き明かし、信頼性の高いインフラ基盤を構築することに強い関心を持っています。
